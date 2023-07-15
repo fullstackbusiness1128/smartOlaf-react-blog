@@ -1,2 +1,2 @@
-# udemy-react-blog
-Udemy's React 16 course project - blog
+# smartOlaf-react-blog
+smartOlaf's React 16 course project - blog
